@@ -1,5 +1,5 @@
 import * as THREE from 'three';
-import './style.css';
+import '../style.css';
 
 // Prototype scope: a compact procedural city block, third-person Robin,
 // one drivable car, and touch/keyboard controls. Art and story assets are placeholders.
