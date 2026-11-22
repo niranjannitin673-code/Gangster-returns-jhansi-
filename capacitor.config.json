@@ -1,0 +1,6 @@
+{
+  "appId": "com.rcu.gangsterreturnsjhansi",
+  "appName": "Gangster Returns Jhansi",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

@@ -1,0 +1,4 @@
+This starter kit contains original prototype code and procedural placeholder geometry.
+No third-party character, vehicle, music, logo, map, or texture assets are included.
+Acquire or create assets with appropriate licenses before shipping the game.
+The screenplay remains the property of its author as stated in the supplied PDF.
